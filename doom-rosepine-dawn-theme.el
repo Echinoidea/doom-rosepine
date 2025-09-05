@@ -190,6 +190,9 @@
    ;;;; LSP
    (lsp-face-highlight-textual :background alt-accent :foreground rp-base)
 
+   ;;;; nav-flash
+   (nav-flash-face :background rp-rose :foreground rp-base )
+
    ;;;; company
    (company-tooltip :foreground rp-text :background rp-base)
    (company-tooltip-annotation :foreground rp-text)
