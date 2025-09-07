@@ -237,6 +237,7 @@ determine the exact padding."
    (org-level-4 :foreground green :weight 'bold)
    (org-code :foreground yellow)
    (org-verbatim :foreground teal)
+   (org-scheduled-today :foreground blue)
    ;;;; mic-paren
    ((paren-face-match &override) :foreground fg :background ui-selection-bg :weight 'ultra-bold)
    ;;;; rjsx-mode / js2-mode / typescript-mode / typescript-tsx-mode
